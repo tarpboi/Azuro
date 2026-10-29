@@ -3,12 +3,12 @@
 **🌐 Language / 语言 / Язык:** [English](README.md) · [简体中文](README.zh-CN.md) · [Русский](README.ru.md)
 
 ![Status](https://img.shields.io/badge/status-🟢_live-2ea44f?style=flat-square)
-[![Engine](https://img.shields.io/badge/engine-shared_core-6e40c9?style=flat-square)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits)
+[![Engine](https://img.shields.io/badge/engine-shared_core-6e40c9?style=flat-square)](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![CI](https://github.com/HarrierOnChain/Azuro/actions/workflows/ci.yml/badge.svg)](https://github.com/HarrierOnChain/Azuro/actions/workflows/ci.yml)
+[![CI](https://github.com/tarpboi/Azuro/actions/workflows/ci.yml/badge.svg)](https://github.com/tarpboi/Azuro/actions/workflows/ci.yml)
 
-> 自动化 **Azuro 交易机器人** — 去中心化协议。隶属 [Prediction Market Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits) 套件：一个执行核心，一个风控层，覆盖所有平台。
+> 自动化 **Azuro 交易机器人** — 去中心化协议。隶属 [Prediction Market Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits) 套件：一个执行核心，一个风控层，覆盖所有平台。
 
 **Azuro** 现已在生产环境中**正式上线**。
 
@@ -36,7 +36,7 @@
 | 🏆 **体育执行** — 点击、成交、完成 — 50 毫秒以内 FAK |
 | 📊 **订单簿失衡** — 信号本身*就是*订单簿，无需外部数据源 |
 
-> 想要 Azuro 上未列出的策略？适配器覆盖按需驱动 — [联系我们](https://t.me/HarrierOnChain)。
+> 想要 Azuro 上未列出的策略？适配器覆盖按需驱动 — [联系我们](https://t.me/tarpboi)。
 
 ---
 
@@ -45,7 +45,7 @@
 克隆仓库、填入密钥、运行 —— TUI 让你选择策略。
 
 ```bash
-git clone https://github.com/HarrierOnChain/Azuro.git
+git clone https://github.com/tarpboi/Azuro.git
 cd Azuro
 cp config.example.yaml config.yaml   # add your keys
 cargo run --release                  # launch the TUI
@@ -58,7 +58,7 @@ cargo run --release                  # launch the TUI
 
 本仓库是 **Azuro** 的入口。执行核心、风控层以及全部 20+ 个平台适配器都位于主工具包中：
 
-### 👉 **[Prediction-Markets-Trading-Bot-Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits)** — 完整套件
+### 👉 **[Prediction-Markets-Trading-Bot-Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits)** — 完整套件
 
 | | |
 |---|---|
@@ -75,9 +75,9 @@ cargo run --release                  # launch the TUI
 
 | 平台 | 链接 |
 |----------|------|
-| **完整工具包** | [Prediction-Markets-Trading-Bot-Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits) |
-| **Telegram** | [@HarrierOnChain](https://t.me/HarrierOnChain) |
-| **讨论区** | [GitHub Discussions](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits/discussions) |
+| **完整工具包** | [Prediction-Markets-Trading-Bot-Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits) |
+| **Telegram** | [@tarpboi](https://t.me/tarpboi) |
+| **讨论区** | [GitHub Discussions](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits/discussions) |
 
 *通常在数小时内回复。*
 
@@ -85,9 +85,9 @@ cargo run --release                  # launch the TUI
 
 ## 相关平台
 
-[Kalshi](https://github.com/HarrierOnChain/Kalshi) · [OG.com](https://github.com/HarrierOnChain/OG.com) · [Polymarket](https://github.com/HarrierOnChain/Polymarket) · [Augur](https://github.com/HarrierOnChain/Augur)
+[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Augur](https://github.com/tarpboi/Augur)
 
-> 在[主工具包 →](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits#venue-coverage)中浏览完整平台目录
+> 在[主工具包 →](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits#venue-coverage)中浏览完整平台目录
 
 ---
 
@@ -99,8 +99,8 @@ cargo run --release                  # launch the TUI
 
 <div align="center">
 
-**Azuro 交易机器人 · 基于 [Prediction Market Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits) 引擎构建**
+**Azuro 交易机器人 · 基于 [Prediction Market Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits) 引擎构建**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@HarrierOnChain-26A5E4?style=flat-square&logo=telegram)](https://t.me/HarrierOnChain)
+[![Telegram](https://img.shields.io/badge/Telegram-@tarpboi-26A5E4?style=flat-square&logo=telegram)](https://t.me/tarpboi)
 
 </div>
