@@ -9,7 +9,7 @@ pub const NAME: &str = "Azuro";
 /// Venue category.
 pub const VENUE_TYPE: &str = "Decentralized protocol";
 
-/// Strategies this venue runs on the shared engine.
+/// Strategies mapped to this venue on the shared engine.
 pub const STRATEGIES: &[&str] = &[
     "Sports Execution",
     "Orderbook Imbalance",
