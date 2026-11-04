@@ -19,7 +19,7 @@
 
 | 策略 |
 |----------|
-| 🏆 **体育执行** — 点击、成交、完成 — FAK |
+| 🏆 **体育执行** — 在终端输入、成交、完成 |
 | 📊 **订单簿失衡** — 信号本身*就是*订单簿，无需外部数据源 |
 
 > 想要 Azuro 上未列出的策略？适配器覆盖按需驱动 — [联系我们](https://t.me/tarpboi)。
@@ -70,7 +70,7 @@ cargo run --release -- run copy-trading   # dry-run: enable_trading is false by 
 
 ## 相关平台
 
-[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Augur](https://github.com/tarpboi/Augur)
+[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Predict.fun](https://github.com/tarpboi/Predict.fun)
 
 > 在[主工具包 →](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits#venue-coverage)中浏览完整平台目录
 

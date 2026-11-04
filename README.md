@@ -19,7 +19,7 @@ These are the strategies mapped to Azuro. They run here once its adapter is wire
 
 | Strategy |
 |----------|
-| 🏆 **Sports Execution** — click, filled, done — FAK |
+| 🏆 **Sports Execution** — type it, filled, done, from the terminal |
 | 📊 **Orderbook Imbalance** — the signal *is* the order book, no external feeds |
 
 > Want a strategy not listed here on Azuro? Adapter coverage is demand-driven — [ask](https://t.me/tarpboi).
@@ -70,7 +70,7 @@ Adding a venue means writing **one adapter** — not rebuilding a bot.
 
 ## Related venues
 
-[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Augur](https://github.com/tarpboi/Augur)
+[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Predict.fun](https://github.com/tarpboi/Predict.fun)
 
 > Browse the full venue directory in the [main toolkit →](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits#venue-coverage)
 

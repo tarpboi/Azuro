@@ -19,7 +19,7 @@
 
 | Стратегия |
 |----------|
-| 🏆 **Спортивное исполнение** — клик, исполнено, готово — FAK |
+| 🏆 **Спортивное исполнение** — ввели, исполнено, готово, из терминала |
 | 📊 **Дисбаланс стакана** — сигнал *и есть* стакан заявок, без внешних фидов |
 
 > Нужна стратегия, не указанная здесь для Azuro? Покрытие адаптеров определяется спросом — [напишите](https://t.me/tarpboi).
@@ -70,7 +70,7 @@ cargo run --release -- run copy-trading   # dry-run: enable_trading is false by 
 
 ## Связанные площадки
 
-[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Augur](https://github.com/tarpboi/Augur)
+[Kalshi](https://github.com/tarpboi/Kalshi) · [OG.com](https://github.com/tarpboi/OG.com) · [Polymarket](https://github.com/tarpboi/Polymarket) · [Predict.fun](https://github.com/tarpboi/Predict.fun)
 
 > Полный каталог площадок — в [основном наборе →](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits#venue-coverage)
 
